@@ -26,6 +26,7 @@ function App() {
       </Router>
     </AppProvider>
   );
+  
 }
 
 export default App;
