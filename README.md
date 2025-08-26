@@ -12,11 +12,11 @@ A pixel-perfect React.js mobile application built as an internship qualifier tas
 
 | InputField | Form Integration |
 |------------|------------------|
-| ![InputField](./screenshots/img1.png) | ![Form Integration](./screenshots/img2.png) |
+| ![Home](./screenshots/img1.png) | ![Register](./screenshots/img2.png) |
 
 | DataTable | Responsive Demo |
 |-----------|-----------------|
-| ![DataTable](./screenshots/img3.png) | ![Responsive Demo](./screenshots/img4.png) |
+| ![Login](./screenshots/img3.png) | ![Profile](./screenshots/img4.png) |
 
 
 ## 📖 Overview
