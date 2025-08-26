@@ -1,71 +1,101 @@
-# Getting Started with Create React App
+# PopX Mobile App 📱
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A pixel-perfect React.js mobile application built as an internship qualifier task. Features a modern UI with seamless navigation across 4 screens.
 
-## Available Scripts
+![React](https://img.shields.io/badge/React-18.0+-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow) ![Responsive](https://img.shields.io/badge/Responsive-Yes-green)
 
-In the project directory, you can run:
+## 🎥 Demo Video
 
-### `npm start`
+- 🎬 [Watch Demo on YouTube](https://www.youtube.com/watch?v=tszaCae-02I)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📸 Screenshots
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+| InputField | Form Integration |
+|------------|------------------|
+| ![InputField](./screenshots/img1.png) | ![Form Integration](./screenshots/img2.png) |
 
-### `npm test`
+| DataTable | Responsive Demo |
+|-----------|-----------------|
+| ![DataTable](./screenshots/img3.png) | ![Responsive Demo](./screenshots/img4.png) |
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## 📖 Overview
+PopX is a mobile-first web application that demonstrates modern React development practices. Built from Adobe XD designs, it showcases user authentication flows and profile management with a clean, professional interface.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## ✨ Features
+- **4-Screen Navigation Flow** - Welcome → Login → Register → Profile
+- **Responsive Design** - Mobile-first, centered on desktop
+- **Form Validation** - Real-time input validation
+- **Modern UI** - Clean design with smooth transitions
+- **Cross-browser Compatible** - Works on all modern browsers
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🛠 Tech Stack
+- **Frontend:** React.js, React Router DOM
+- **Styling:** CSS3, CSS Modules
+- **State Management:** React Hooks & Context API
+- **Build Tool:** Create React App
+- **Deployment:** Netlify/Vercel
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🚀 Quick Start
 
-### `npm run eject`
+### Prerequisites
+- Node.js 14.0 or higher
+- npm or yarn
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Installation
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/popx-app.git
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Navigate to project directory
+cd popx-app
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Install dependencies
+npm install
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Start development server
+npm start
+```
 
-## Learn More
+### Build for Production
+```bash
+npm run build
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📱 Screen Overview
+1. **Welcome Page** - Landing page with CTA buttons
+2. **Login Screen** - User authentication form
+3. **Registration** - New user signup with validation
+4. **Account Settings** - User profile management
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📁 Project Structure
+```
+src/
+├── components/
+│   ├── Layout/
+│   ├── Auth/
+│   ├── Profile/
+│   └── UI/
+├── styles/
+├── context/
+└── assets/
+```
 
-### Code Splitting
+## 🎯 Key Highlights
+- ✅ Pixel-perfect design implementation
+- ✅ Clean, maintainable code
+- ✅ Modern React best practices
+- ✅ Production-ready deployment
+- ✅ Mobile-optimized performance
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 📞 Contact
+**[Your Name]**
+- LinkedIn: [Your LinkedIn]
+- GitHub: [Your GitHub]
+- Email: [Your Email]
 
-### Analyzing the Bundle Size
+## 📄 License
+MIT License - feel free to use this project for learning purposes.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Popx-Assignment
+---
+Built with ❤️ for internship application
