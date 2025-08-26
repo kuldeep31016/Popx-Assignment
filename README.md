@@ -10,13 +10,12 @@ A pixel-perfect React.js mobile application built as an internship qualifier tas
 
 ## 📸 Screenshots
 
-| InputField | Form Integration |
-|------------|------------------|
-| ![Home](./screenshots/img1.png) | ![Register](./screenshots/img2.png) |
+## 📸 Screenshots
 
-| DataTable | Responsive Demo |
-|-----------|-----------------|
-| ![Login](./screenshots/img3.png) | ![Profile](./screenshots/img4.png) |
+| Home | Register | Login | Profile |
+|------|----------|-------|---------|
+| ![Register](./screenshots/img1.png) | ![Home](./screenshots/img2.png) | ![Login](./screenshots/img3.png) | ![Profile](./screenshots/img4.png) |
+
 
 
 ## 📖 Overview
